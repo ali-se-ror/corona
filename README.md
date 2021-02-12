@@ -20,8 +20,8 @@ Or install it yourself as:
 
 ## Usage
 
-$ require 'corona'
-$ Corona::CLI.new.call
+    $ require 'corona'
+    $ Corona::CLI.new.call
 
 Input the state code and it will scrap and display the test viral rate increase on entire data.
 
